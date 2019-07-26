@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  LQ_KLine
+//
+//  Created by lq on 2019/6/16.
+//  Copyright © 2019年 2SE. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+MyExtention.h"
+#import "UIBezierPath+draw.h"
+#import <UIKit/UIKit.h>
+#import "BaseConfig.h"
+#import <Masonry.h>
+#import "LQLineModel.h"
+#import <YYKit/YYKit.h>
+#import "KLineType.h"
+#import "ToolClass.h"
+
+#import "UILabel+MyExtension.h"
+#import "UIButton+MyExtention.h"
+#import "SEConstant.h"
+#import "SEBaseTableView.h"
+#import "SESuperMarketModel.h"
+#import "LQImageAtRightButton.h"
+
+#endif /* PrefixHeader_pch */
